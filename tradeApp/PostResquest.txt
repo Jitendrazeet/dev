@@ -1,0 +1,69 @@
+{
+	"id":12,
+	"type":"Seller",
+	"user":{	
+	"id":"2"
+		"name":"Sunvivi"
+		},
+	"symbol":"ZTL-D",
+	"shares":14,
+	"price":223.23
+}
+
+
+{
+	"id":13,
+	"type":"Buy",
+	"user":{	
+	
+		"name":"Ravi"
+		},
+	"symbol":"JTL-D",
+	"shares":12,
+	"price":923.23
+}
+
+{
+	"id":14,
+	"type":"Seller",
+	"user":{	
+		"name":"Knal"
+		},
+	"symbol":"TL-D",
+	"shares":4,
+	"price":723.23
+}
+
+{
+	"id":1,
+	"type":"Seller",
+	"user":{	
+		"name":"Sunvivi"
+		},
+	"symbol":"ZTL-D",
+	"shares":14,
+	"price":223.23
+}
+
+
+{
+	"id":3,
+	"type":"Buy",
+	"user":{	
+		"name":"Ravi"
+		},
+	"symbol":"JTL-D",
+	"shares":12,
+	"price":923.23
+}
+
+{
+	"id":4,
+	"type":"Seller",
+	"user":{	
+		"name":"Knal"
+		},
+	"symbol":"TL-D",
+	"shares":4,
+	"price":723.23
+}
